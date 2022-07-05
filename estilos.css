@@ -155,7 +155,7 @@ header nav a:hover{
     font-size: 26px;
 }
 
-@media (max-width: 370px){
+@media (max-width: 470px){
 
     body{
         background-color: black;

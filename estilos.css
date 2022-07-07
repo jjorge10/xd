@@ -145,7 +145,8 @@ header nav a:hover{
 .card:hover{
     width: 220px;
     height: 220px;
-    transition: .2s;
+    transform: scale(1.5);
+    transition: transform .2s;
 }
 
 
